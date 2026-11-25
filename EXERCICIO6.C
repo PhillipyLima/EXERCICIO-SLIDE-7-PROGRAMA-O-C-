@@ -1,3 +1,11 @@
+Questão 6 
+
+- Desenvolva uma calculadora que realize as quatro operações matemáticas básicas: adição,
+subtração, multiplicação e divisão. Implemente uma função para cada operação, recebendo dois números como
+parâmetros e retornando o resultado. O programa deverá ler dois números e uma opção de operação, chamar a
+função correspondente e exibir o resultado. Na divisão, verifique se o divisor é diferente de zero antes de realizar a
+operação.
+
 #include <stdio.h>
 
 float soma(float a, float b)
