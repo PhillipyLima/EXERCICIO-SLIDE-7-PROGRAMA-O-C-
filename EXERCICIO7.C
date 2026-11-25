@@ -1,3 +1,10 @@
+Questão 7 
+
+- Crie uma função chamada calcularMedia que receba três notas e retorne a média aritmética. Em
+seguida, crie uma função chamada verificarSituacao que receba a média e exiba a situação do aluno,
+considerando aprovado quem obtiver média maior ou igual a 7,0 e reprovado quem obtiver média inferior a 7,0. No
+programa principal, leia as três notas, calcule a média e apresente a situação do aluno
+
 #include <stdio.h>
 
 float calcularMedia(float n1, float n2, float n3)
