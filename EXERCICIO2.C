@@ -1,3 +1,7 @@
+Questão 2 
+- Crie uma função chamada calcularDobro que receba um número inteiro como parâmetro e retorne o
+seu dobro. No programa principal, leia um número, chame a função e exiba o resultado.
+
 #include <stdio.h>
 
 int calcularDobro(int numero)
@@ -17,9 +21,4 @@ int main()
     return 0;
 }
 
-/*
-PROCESSO:
-1. Recebe um número.
-2. Multiplica por 2.
-3. Retorna o resultado.
-*/
+
